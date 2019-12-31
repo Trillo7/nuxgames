@@ -8,7 +8,7 @@
             echo "<img src='".$juego->Imagen."' style='height: 300px;width: 215px;' class='img-fluid'>";
         }
         ?>
-        <div id='infojuego' class=''><?php echo $juego->Nombre_juego; ?> <br> Consola: <?php echo $juego->Nombre_consola; ?></div>
+        <div id='infojuego' class=''><?php echo $juego->Nombre_juego; ?> <br> Plataforma: <?php echo $juego->Nombre_consola; ?></div>
         <input type='submit' class='btn btn-primary mt-2' value='Mostrar'>
     </form>
 
