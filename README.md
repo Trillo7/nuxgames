@@ -13,10 +13,9 @@ Características administrador:
 - Borrar juegos.
 
 
-![Alt Text](https://i.imgur.com/U7p7GEx.png)
-![Alt Text](https://i.imgur.com/V75qHmn.png)
+![Registro](https://i.imgur.com/OhSPxGC.png)
+![Alt Text](https://i.imgur.com/Ozm4unp.png)
 ![Alt Text](https://i.imgur.com/I8Qc514.png)
-![Alt Text](https://i.imgur.com/ttw3bk6.png
-)
+![Add juego](https://i.imgur.com/p8kdQlu.png)
 
 
